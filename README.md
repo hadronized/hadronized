@@ -1,3 +1,5 @@
+![](https://phaazon.net/media/uploads/hello_i_am_dog.gif)
+
 I’m **Dimitri Sabadie**, a French Software Engineer passionate about many things, among but not limited to:
 
 - Language theory / compilers / DSL / etc.
