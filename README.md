@@ -1,3 +1,9 @@
-# Dimitri 'phaazon' Sabadie
+I’m **Dimitri Sabadie**, a French Software Engineer passionate about many things, among but not limited to:
 
-It’s a me!
+- Language theory / compilers / DSL / etc.
+- Graphics programming.
+- Problem solving.
+- Strongly typed systems.
+- Wakeboarding, playing the guitar, cooking, etc.
+
+More about me on [my website](https://phaazon.net). Enjoy your visit!
